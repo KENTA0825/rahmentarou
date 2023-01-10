@@ -1,24 +1,26 @@
-# README
+# rahmentarou
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## サイト概要
 
-* Ruby version
+### サイトテーマ：食べに行ったラーメン店のレビューサイト
 
-* System dependencies
+### テーマを選んだ理由
+もともとラーメンが好きで、よくラーメンを食べにいくので、美味しいラーメン店のレビューをみんなが投稿できるようにするためにこのテーマにしました。
 
-* Configuration
+### ターゲットユーザ
+ラーメン好きな人
 
-* Database creation
+### 主な利用シーン
+行きたいラーメン店を検索する時、自分が行ったお店のレビューを投稿する時
+## 設計書
 
-* Database initialization
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
